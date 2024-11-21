@@ -1,1 +1,2 @@
 Project: Stable Release 1.0.0
+Update: Added new features for 1.1.0
